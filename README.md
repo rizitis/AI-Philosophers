@@ -135,33 +135,6 @@ This program is powerful and may interact deeply with your operating system and 
 
 ---
 
-##  Who Should Use This?
-
-This tool is intended for:
-- Advanced users
-- Developers
-- System testers
-- Researchers
-
-❌ **Not recommended** for beginners or mission-critical systems.
-
----
-
-# ⚠️ Important Disclaimer
-
-**This software comes with NO WARRANTY, express or implied.**
-
-**Use at your own risk.**
-
-This program is powerful and may interact deeply with your operating system and hardware. **It has the potential to cause:**
-- System instability or crashes
-- Hardware stress or overheating
-- Data loss or corruption
-- Unauthorized changes to system settings
-- High resource usage (CPU, GPU, RAM, disk)
-
----
-
 ## 🛑 Who Should Use This?
 
 This tool is intended for:
