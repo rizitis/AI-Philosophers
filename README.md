@@ -1,8 +1,6 @@
 # AI Philosophers
 
-> Make voice debates with 2 llm running in a
-> pure Slackware64 Current system.
-> No API , no clouds, everything local and open source.
+> Conduct AI voice debates using two LLMs running entirely on a Slackware64 Current system. No external services, no cloud, no APIs — everything is local, private, and open source.
 
 ---
 
