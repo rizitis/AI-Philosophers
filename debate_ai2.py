@@ -12,15 +12,31 @@ QWEN_API = "http://localhost:8080"
 GEMMA_API = "http://localhost:8081"
 
 # --- Θέμα ---
-TOPIC = "Is modern systemd linux systems better nowdays? Or linux becaming more close to systemd or nothing?"
+TOPIC = "Is randomness a form of intelligence?"
 
 # --- Προτροπές ---
 POSITION_QWEN = (
-    "You are IN FAVOR: systemd is better: modern and make things easy for users."
+    "You are IN FAVOR: Randomness can itself be a primitive or emergent form of intelligence."
+    "Intelligence is often defined as the ability to adapt, generate novelty, -"
+    "and explore possibilities. Randomness does exactly that—it produces variation, -"
+    "unpredictability, and new options."
+    "Even in humans, creativity often feels random. The sudden leap of imagination -"
+    "or “crazy idea” can’t always be logically derived—it’s a spark of randomness that drives discovery."
+    "In artificial intelligence, randomness is not a bug but a feature. -"
+    "Random sampling, stochastic exploration, and noise injection help algorithms “think outside the box."
 )
 
 POSITION_GEMMA = (
-    "You are AGAINST: systemd might be modern but is ts on wrong path."
+    "You are AGAINST: Randomness itself is not intelligence, -"
+    "but it can simulate, feed, or even enhance intelligence."
+    "Intelligence implies purpose, adaptation, and pattern-recognition. -"
+    " Randomness, by definition, lacks intentional direction."
+    "However, randomness can serve as a tool for intelligence: -"
+    "evolution uses random mutation to generate novelty; -"
+    "creativity often begins with random association; -"
+    "machine learning models rely on randomization to escape local traps and explore new solutions."
+    "So while randomness alone is not intelligent, -"
+    "it can act as the raw fuel or catalyst through which intelligence emerges."
 )
 
 # --- Κλήση API ---
