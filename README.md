@@ -22,7 +22,7 @@
 5. > cmake -B build -DGGML_VULKAN=1 <br>
 	> cmake --build build --config Release
  
-6. Download your models from `https://huggingface.co/` (I use lm-studio so I have them in lm-studio path...) In any case these scripts are ready for [gemma-3n-E4B-it-text-GGUF](https://huggingface.co/lmstudio-community/gemma-3n-E4B-it-text-GGUF) and [Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF)
+6. Download your models from `https://huggingface.co/` (I use lm-studio so I have them in lm-studio path...) In any case here python scripts are ready for [gemma-3n-E4B-it-text-GGUF](https://huggingface.co/lmstudio-community/gemma-3n-E4B-it-text-GGUF) and [Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF)
 7. Change to project folder and clone this repo `cd ~/AI-DEBATES && git clone https://github.com/rizitis/AI-Philosophers.git`
 8. Change in `cd AI-Philosophers || exit`
 9. Install [kokoro](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md) `pip install -q kokoro>=0.9.2 soundfile` 
